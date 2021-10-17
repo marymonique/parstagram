@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Uploading walkthrough.gif…]()
+![walkthrough](https://user-images.githubusercontent.com/77079349/137612952-1239646d-9b11-4964-87e9-65e3fc527d7a.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
